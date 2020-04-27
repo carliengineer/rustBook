@@ -1,0 +1,1 @@
+/home/engineer/codebase/rustBook/smart_pointers/part2/target/debug/part2: /home/engineer/codebase/rustBook/smart_pointers/part2/src/lib.rs /home/engineer/codebase/rustBook/smart_pointers/part2/src/main.rs
